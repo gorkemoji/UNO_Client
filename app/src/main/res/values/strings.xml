@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">UNO Client</string>
+    <string name="app_name">UNO</string>
+    <string name="play">Play</string>
 </resources>
